@@ -1,3 +1,8 @@
+var _ = require('lodash');
+
+var array = [1, 2, 4, 5, 7, 20];
+console.log('answer:', _.without(array, 5));
+
 var css = document.querySelector('h3');
 var c1 = document.getElementById('c1');
 var c2 = document.querySelector('#c2');
