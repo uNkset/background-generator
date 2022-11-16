@@ -1,0 +1,27 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "background generator",
+  "main": "script.js",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "background",
+    "generator"
+  ],
+  "author": "Konstantin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uNkset/background-generator/issues"
+  },
+  "homepage": "https://github.com/uNkset/background-generator#readme"
+}
